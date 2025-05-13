@@ -1,20 +1,10 @@
-# Sinch Python SDK
+# Midnight Commander SSH-es
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/sinch/sinch-sdk-python/blob/main/LICENSE)
+Here you'll find documentation related to the how to use Midnight Commander as a menu navigation for managing SSH, SCP access to traditional shell access via common SSH or AWS SSM.
 
+To set this up, I am using WSL in Windows, but you can use any Linux based OSes.
 
-[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
-[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
-
-
-
-Here you'll find documentation related to the Sinch Python SDK, including how to install it, initialize it, and start developing Python code using Sinch services.
-
-To use Sinch services, you'll need a Sinch account and access keys. You can sign up for an account and create access keys at [dashboard.sinch.com](https://dashboard.sinch.com).
-
-For more information on the Sinch APIs on which this SDK is based, refer to the official [developer documentation portal](https://developers.sinch.com).
+For more information on the Midnight Commander, refer to the official web site https://midnight-commander.org.
 
 
 - [Prerequisites](#prerequisites)
